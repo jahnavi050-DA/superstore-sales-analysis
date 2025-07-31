@@ -1,0 +1,2 @@
+Dataset used in this project was downloaded from Kaggle:
+https://www.kaggle.com/datasets/bravehart101/sample-supermarket-dataset
